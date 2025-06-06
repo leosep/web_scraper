@@ -38,11 +38,6 @@ web_scraper/
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/your-username/web_scraper.git
-cd web_scraper
-```
-
 ### 2. Install Dependencies
 
 Use `pip` to install required libraries:
