@@ -59,7 +59,7 @@ python main.py <URL> <OUTPUT_FOLDER>
 ### Example:
 
 ```bash
-python main.py https://cajasdeseguridad.com.do/es/ ./downloaded_site
+python main.py https://site.com ./downloaded_site
 ```
 
 This will:
